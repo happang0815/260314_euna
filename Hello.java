@@ -15,7 +15,7 @@ public class Hello {
 		// new 키워드를 사용해 객체 생성
 		Hello hello = new Hello();
 		Hello hello1 = new Hello();
-		hello.print("Java");
+		hello.print("Java!!");
 		
 		
 	}
